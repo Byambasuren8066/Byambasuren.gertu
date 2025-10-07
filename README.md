@@ -10,11 +10,3 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://buymeacoffee.com/byumbasurenbold"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/byumbasurenbold" /></a></p><br><br>
-<div>
-
-
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=byambasuren8066&show_icons=true&locale=en" alt="byambasuren8066" /></p>
-
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=byambasuren8066&" alt="byambasuren8066" /></p>
-  
-</div>
